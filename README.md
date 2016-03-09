@@ -4,7 +4,7 @@ Tokenizer for Hindi,English,Telugu
 ##Working
 
 This is a python-2.7 code
-Note: x_plot.jpeg has the plot for overall data.
+###Note: x_plot.jpeg has the plot for overall data.
       x_plot_first_1000.jpeg has the plot for first 1000 rank words.
 
 
