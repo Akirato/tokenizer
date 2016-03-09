@@ -12,6 +12,7 @@ Note: x_plot.jpeg has the plot for overall data.
 
 ./tokenizer.py <input-file> <output-file> <option-1> <option-2>
 
+####Options:
 1. <option-1>
 	- plot         --- only plots the graph
 	- plotAndWrite --- plots and writes the output in the output File
